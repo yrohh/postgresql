@@ -1,0 +1,1 @@
+SET PASSWORD FOR 'dev_jun'@'%' = PASSWORD('패스워드 입력');
